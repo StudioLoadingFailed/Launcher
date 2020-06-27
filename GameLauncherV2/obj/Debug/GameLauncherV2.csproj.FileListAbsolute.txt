@@ -1,0 +1,10 @@
+D:\Projects\App\GameLauncherV2\GameLauncherV2\bin\Debug\GameLauncherV2.exe.config
+D:\Projects\App\GameLauncherV2\GameLauncherV2\bin\Debug\GameLauncherV2.exe
+D:\Projects\App\GameLauncherV2\GameLauncherV2\bin\Debug\GameLauncherV2.pdb
+D:\Projects\App\GameLauncherV2\GameLauncherV2\obj\Debug\GameLauncherV2.csprojAssemblyReference.cache
+D:\Projects\App\GameLauncherV2\GameLauncherV2\obj\Debug\GameLauncherV2.Form1.resources
+D:\Projects\App\GameLauncherV2\GameLauncherV2\obj\Debug\GameLauncherV2.Properties.Resources.resources
+D:\Projects\App\GameLauncherV2\GameLauncherV2\obj\Debug\GameLauncherV2.csproj.GenerateResource.cache
+D:\Projects\App\GameLauncherV2\GameLauncherV2\obj\Debug\GameLauncherV2.csproj.CoreCompileInputs.cache
+D:\Projects\App\GameLauncherV2\GameLauncherV2\obj\Debug\GameLauncherV2.exe
+D:\Projects\App\GameLauncherV2\GameLauncherV2\obj\Debug\GameLauncherV2.pdb
